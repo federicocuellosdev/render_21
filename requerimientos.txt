@@ -1,0 +1,9 @@
+Librerias
+--
+selenium
+datetime
+
+Pasos
+Descargar   Linux Alpine v3.19
+Descargar   Python v3.12
+Instalar    Selenium v4.10
